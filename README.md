@@ -19,3 +19,5 @@ Project for learning to create a web app with the following tech stack: -
 ### Database
 - MongoDB
 
+### Figma
+- https://www.figma.com/design/i51zhgJ89E3VK0eiF6TaMm/Andrew-Wine-(Landing-Page)
